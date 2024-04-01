@@ -1,10 +1,11 @@
 // star printing pattern 
 /*
 
-*
-**
-***
 ****
+***
+**
+*
+
 
 */
 #include <stdio.h>
